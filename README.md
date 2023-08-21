@@ -14,7 +14,7 @@ Welcome to the GitHub repository for our Autonomous Maze Solving Robot project! 
 
 ## Design
 
-![Image of the robot](images/image1.png)
+<img src="images/image1.png" alt="Robot Design" width="400">
 
 Our robot features a well-thought-out design to ensure efficient performance:
 
